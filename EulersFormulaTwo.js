@@ -268,7 +268,7 @@ var init = () => {
 
     let e10 = BigNumber.from(1e10);
     let e20 = BigNumber.from(1e20);
-    let e25 = BigNumber.from(1e25);
+    let e25 = BigNumber.from(1e20);
     let e50 = BigNumber.from(1e50);
     let e69 = BigNumber.from(1e69);
     let e75 = BigNumber.from(1e75);
